@@ -7,5 +7,22 @@
             Console.WriteLine("Hello, World! C# Academy ! One More Modification !!");
 
         }
+
+        void MyFirstMethod()
+        {
+
+        }
+        void MySecondMethod()
+        {
+
+        }
+        void MyThirdMethod()
+        {
+
+        }
+
+
+
+
     }
 }
